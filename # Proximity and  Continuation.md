@@ -7,8 +7,7 @@
 
 ### Things we can associate with Proximity
 * A car Park
-* 
-* 
+* A light source
 * Any two or multiple objects close to each other
 * And more
 
@@ -17,6 +16,7 @@
 * Roads
 * Time
 * Movement of the universe
+* Life
 * And more
 
 ## Our Own Images
@@ -31,10 +31,19 @@ This image was taken to show the continuation of the train track, later on in th
 
 As we mentioned earlier, continuation is something carrying on, and this is what the train tracks represent very well as there is no start nor finish and they continue outside of the picture frames.
 
-[![Train Driveby](http://img.youtube.com/vi/f68Pd4uUcmM/0.jpg)](https://www.youtube.com/watch?v=f68Pd4uUcmM "Train Passing")
+[![Train Driveby](https://img.youtube.com/vi/f68Pd4uUcmM/0.jpg)](https://www.youtube.com/watch?v=f68Pd4uUcmM "Train Passing")
 
 #### _Train Passing_
 
 In this video, you can see the train passing quickly and each carriage that passes is exactly the same. Again this is continuation as it looks like the train never ends in the video.
 
-[![Ripples](http://img.youtube.com/vi/KcA8zmU4eiQ/0.jpg)](https://www.youtube.com/watch?v=KcA8zmU4eiQ "Ripples")
+[![Ripples](https://img.youtube.com/vi/KcA8zmU4eiQ/0.jpg)](https://www.youtube.com/watch?v=KcA8zmU4eiQ "Ripples")
+
+#### _Water Ripples_
+
+I am sure that everyone knows this is outside the O2 Arena. The water ripples are within close proximity and is also a good example of continuation. The ripples is continuing to go on for a long period of time until the water has been turned off, otherwise the ripples will keep on repeating itself.
+
+## Other Relevant Things (Content not by us)
+
+
+## Personal Experiences
