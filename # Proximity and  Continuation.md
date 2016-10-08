@@ -7,17 +7,15 @@ ________________________
 **Continuation:** The action of carrying something on over time or the state of being carried on.
 
 ### Things we associate with Proximity
-* 
-*
-*
-*
-*
+* List
+* List
+* List
+* List
+* List
 
 ### Things we associate with Continuation
-*
-*
-*
-*
-* 
-
-___
+* List
+* List
+* List
+* List
+* List
