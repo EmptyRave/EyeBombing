@@ -5,16 +5,20 @@
 
 **Continuation:** The action of carrying something on over time or the state of being carried on.
 
-### Things we associate with Proximity
+### Things we can associate with Proximity
 * List
 * List
 * List
 * List
 * List
 
-### Things we associate with Continuation
+### Things we can associate with Continuation
 * List
 * List
 * List
 * List
 * List
+
+## Our Own Images
+
+![Train Track](https://github.com/EmptyRave/EyeBombing/blob/master/20161006_160052.jpg "Continuation")
