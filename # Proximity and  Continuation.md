@@ -31,6 +31,10 @@ This image was taken to show the continuation of the train track, later on in th
 
 As we mentioned earlier, continuation is something carrying on, and this is what the train tracks represent very well as there is no start nor finish and they continue outside of the picture frames.
 
-[![Train Driveby](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/f68Pd4uUcmM "Train Passing")
+[![Train Driveby](http://img.youtube.com/vi/f68Pd4uUcmM/0.jpg)](https://www.youtube.com/watch?v=f68Pd4uUcmM "Train Passing")
 
+#### _Train Passing_
 
+In this video, you can see the train passing quickly and each carriage that passes is exactly the same. Again this is continuation as it looks like the train never ends in the video.
+
+[![Ripples](http://img.youtube.com/vi/KcA8zmU4eiQ/0.jpg)](https://www.youtube.com/watch?v=KcA8zmU4eiQ "Ripples")
