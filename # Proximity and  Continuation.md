@@ -45,5 +45,8 @@ I am sure that everyone knows this is outside the O2 Arena. The water ripples ar
 
 ## Other Relevant Things (Content not by us)
 
+In this section we will discuss things we have found online which is relevant to our topics.
+
+
 
 ## Personal Experiences
