@@ -43,35 +43,35 @@ In this video, you can see the train passing quickly and each carriage that pass
 
 I am sure that everyone knows this is outside the O2 Arena. The water ripples are within close proximity and is also a good example of continuation. The ripples is continuing to go on for a long period of time until the water has been turned off, otherwise the ripples will keep on repeating itself.
 
-### _Floor Tiles_
+### _Floorboards_
 
 ![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_180732.jpg "Tiles")
 
-Edit your paragraph here Jacob.
+This is an image of floorboards, i decided to use this due to the repitition of the wooden planks, I feel this conveys contiuation quite well. Aswell as being visually apealling.
 
-### _Keyboard_
+### _Keys_
 
 ![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181235.jpg "Keyboard")
 
-Edit your paragraph here Jacob.
+here i have captured an image of piano keys, which also represents continuation within the house.
 
 ### _Bricks_
 
 ![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181429.jpg "Bricks")
 
-Edit your paragraph here Jacob.
+I used this image as i tried to capture continuation aswell as proximity, I attempted this by focusing in on the first brick alowing the rest of the bricks to becoming more obscured.
 
 ### _Heater_
 
 ![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181601.jpg "Heaters")
 
-Edit your paragraph here Jacob.
+This is an image of a wall heater i decided to use this picture as I feel the angel of the shot helps to display continuation, aswell as the contrast of the colours within the image blend well together.
 
 ### _Radiator_
 
 ![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181959.jpg "Radiator")
 
-Edit your paragraph here Jacob.
+This is my favourite image of the series this is due to the deception the camera has created by being angeled over the radiator, I feel this gives the picture alot of depth and repition which ties in proximity and continuation. aswell as this the shadows created by surrouding lighting which is hitting the white radiator gives off a three-dimensional effect.  
 
 ## Other Relevant Things (Content not by us)
 
