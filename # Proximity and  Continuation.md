@@ -47,35 +47,69 @@ I am sure that everyone knows this is outside the O2 Arena. The water ripples ar
 
 ### _Floorboards_
 
-![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_180732.jpg "Tiles")
+![FLoorboards](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_180732.jpg "Tiles")
 
 This is an image of floorboards, i decided to use this due to the repitition of the wooden planks, I feel this conveys contiuation quite well. Aswell as being visually apealling.
 
 ### _Keys_
 
-![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181235.jpg "Keyboard")
+![Keys](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181235.jpg "Keyboard")
 
 Here I have captured an image of piano keys. The keys are going off the image which is continuation and the keys are next to each other in a close proximity.
 
 ### _Bricks_
 
-![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181429.jpg "Bricks")
+![Bricks](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181429.jpg "Bricks")
 
 I used this image as i tried to capture continuation aswell as proximity, I attempted this by focusing in on the first brick alowing the rest of the bricks to becoming more obscured.
 
 ### _Heater_
 
-![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181601.jpg "Heaters")
+![Heater](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181601.jpg "Heaters")
 
 This is an image of a wall heater i decided to use this picture as I feel the angel of the shot helps to display continuation, aswell as the contrast of the colours within the image blend well together.
 
 ### _Radiator_
 
-![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181959.jpg "Radiator")
+![Radiator](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181959.jpg "Radiator")
 
 This is my favourite image of the series this is due to the deception the camera has created by being angeled over the radiator, I feel this gives the picture alot of depth and repition which ties in proximity and continuation. aswell as this the shadows created by surrouding lighting which is hitting the white radiator gives off a three-dimensional effect.  
 
+### _Stairs_
+
+![Stairs](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181959.jpg "Stairs")
+
+Edit your paragraph here Jacob.
+
 ## Other Relevant Things (Content not by us)
+
+**In this section we will discuss things we have found online which is relevant to our topics.**
+
+### NFC
+
+![NFC](https://github.com/EmptyRave/EyeBombing/blob/master/NFC.jpg "NFC")
+
+This image is the logo for NFC, I haven't been able to show you the individual proximity sensor in your phone which is used by the NFC however I have attached a video of someone using Android Pay which is an NFC payment method which can be used practically anywhere which has contactless!
+
+[![NFC](https://img.youtube.com/vi/OkzGPV0aoV4/0.jpg)](https://www.youtube.com/watch?v=OkzGPV0aoV4 "NFC")
+
+### Car Park
+
+![CarPark](https://github.com/EmptyRave/EyeBombing/blob/master/CarPark.jpg "CarPark")
+
+This image shows close proximity between the cars because of the way they have parked, there is minimal gap between the cars. The car park as a whole is also continuation based on this image as they still continue.
+
+### WiFi
+
+![Wifi](https://github.com/EmptyRave/EyeBombing/blob/master/Wifi.png "Wifi")
+
+WiFi is an everyday thing people use now, regardless of location. WiFi has even expanded underground at some stations. The WiFi can only be picked up if the phone is in close proximity to the router. For example, as the train moves along, the radius from the router to the phone increases until the phone is not in range to the router, therefore not in close proximity.
+
+### Proximity Sensor
+
+![Proximity Sensor](https://github.com/EmptyRave/EyeBombing/blob/master/proximity.jpg "Proximity")
+
+This is an excercise, I would like everyone to take their phone out and look at the top end of the phone for a sensor. This is known as a proximity sensor, this measures the light level of the area you are in and informs the screen for the brightness level. If the proximity sensor senses pure darkness, as if you had your phone in your pocket, the screen will NOT turn on, if you have that enabled in the settings.
 
 
 
