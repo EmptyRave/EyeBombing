@@ -77,7 +77,7 @@ This is my favourite image of the series this is due to the deception the camera
 
 ### _Stairs_
 
-![Stairs](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181959.jpg "Stairs")
+![Stairs](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181743.jpg "Stairs")
 
 Edit your paragraph here Jacob.
 
