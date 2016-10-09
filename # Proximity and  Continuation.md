@@ -43,6 +43,8 @@ In this video, you can see the train passing quickly and each carriage that pass
 
 I am sure that everyone knows this is outside the O2 Arena. The water ripples are within close proximity and is also a good example of continuation. The ripples is continuing to go on for a long period of time until the water has been turned off, otherwise the ripples will keep on repeating itself.
 
+**The next images have been taken of objects within my home**
+
 ### _Floorboards_
 
 ![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_180732.jpg "Tiles")
@@ -53,7 +55,7 @@ This is an image of floorboards, i decided to use this due to the repitition of 
 
 ![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181235.jpg "Keyboard")
 
-here i have captured an image of piano keys, which also represents continuation within the house.
+Here I have captured an image of piano keys. The keys are going off the image which is continuation and the keys are next to each other in a close proximity.
 
 ### _Bricks_
 
