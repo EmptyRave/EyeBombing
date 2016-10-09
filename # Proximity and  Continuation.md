@@ -43,6 +43,36 @@ In this video, you can see the train passing quickly and each carriage that pass
 
 I am sure that everyone knows this is outside the O2 Arena. The water ripples are within close proximity and is also a good example of continuation. The ripples is continuing to go on for a long period of time until the water has been turned off, otherwise the ripples will keep on repeating itself.
 
+### _Floor Tiles_
+
+![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_180732.jpg "Tiles")
+
+Edit your paragraph here Jacob.
+
+### _Keyboard_
+
+![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181235.jpg "Keyboard")
+
+Edit your paragraph here Jacob.
+
+### _Bricks_
+
+![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181429.jpg "Bricks")
+
+Edit your paragraph here Jacob.
+
+### _Heater_
+
+![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181601.jpg "Heaters")
+
+Edit your paragraph here Jacob.
+
+### _Radiator_
+
+![Tiles](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181959.jpg "Radiator")
+
+Edit your paragraph here Jacob.
+
 ## Other Relevant Things (Content not by us)
 
 In this section we will discuss things we have found online which is relevant to our topics.
