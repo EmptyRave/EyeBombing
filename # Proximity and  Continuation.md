@@ -77,6 +77,3 @@ This is my favourite image of the series this is due to the deception the camera
 
 In this section we will discuss things we have found online which is relevant to our topics.
 
-
-
-## Personal Experiences
