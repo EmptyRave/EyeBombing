@@ -43,7 +43,7 @@ In this video, you can see the train passing quickly and each carriage that pass
 
 I am sure that everyone knows this is outside the O2 Arena. The water ripples are within close proximity and is also a good example of continuation. The ripples is continuing to go on for a long period of time until the water has been turned off, otherwise the ripples will keep on repeating itself.
 
-**The next images have been taken of objects within my home**
+**The next images have been taken of objects within my home to represent what Continuation and Proximity can be.**
 
 ### _Floorboards_
 
@@ -77,5 +77,5 @@ This is my favourite image of the series this is due to the deception the camera
 
 ## Other Relevant Things (Content not by us)
 
-In this section we will discuss things we have found online which is relevant to our topics.
+
 
