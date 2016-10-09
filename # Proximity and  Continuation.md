@@ -79,7 +79,7 @@ This is my favourite image of the series this is due to the deception the camera
 
 ![Stairs](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181743.jpg "Stairs")
 
-Edit your paragraph here Jacob.
+Here i have captured an image of a staircase, the picture displays a good example of continuation with the stairs exending with the image this also conveys proximity, with the final stairs appearing alot smaller and fainter than the closer ones which you can see the texture on the carpet.
 
 ## Other Relevant Things (Content not by us)
 
