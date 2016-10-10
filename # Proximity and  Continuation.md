@@ -83,7 +83,7 @@ Here I have captured an image of a staircase, the picture displays a good exampl
 
 ### _Street_
 
-![Street](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_1062.jpg "Street")
+![Street](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_1068.jpg "Street")
 
 Here is an image of a street, which is a good example of a continuation not only with the road but the cars all lined up down the street offers up a continuation.
 
