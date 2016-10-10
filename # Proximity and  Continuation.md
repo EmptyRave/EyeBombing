@@ -43,13 +43,13 @@ In this video, you can see the train passing quickly and each carriage that pass
 
 I am sure that everyone knows this is outside the O2 Arena. The water ripples are within close proximity and is also a good example of continuation. The ripples is continuing to go on for a long period of time until the water has been turned off, otherwise the ripples will keep on repeating itself.
 
-** In This next series of images, I have tried to capture (in my opinion) what Continuation and Proximity is, using visual perception within the home**
+**In This next series of images, I have tried to capture (in my opinion) what Continuation and Proximity is, using visual perception within the home**
 
 ### _Floorboards_
 
 ![FLoorboards](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_180732.jpg "Tiles")
 
-This is an image of floorboards, i decided to use this due to the repitition of the wooden planks, I feel this conveys contiuation quite well. Aswell as being visually apealling.
+This is an image of floorboards, I decided to use this due to the repitition of the wooden planks, I feel this conveys contiuation quite well. Aswell as being visually apealling.
 
 ### _Keys_
 
@@ -61,25 +61,25 @@ Here I have captured an image of piano keys. The keys are going off the image wh
 
 ![Bricks](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181429.jpg "Bricks")
 
-I used this image as i tried to capture continuation aswell as proximity, I attempted this by focusing in on the first brick alowing the rest of the bricks to becoming more obscured.
+I used this image as I tried to capture continuation aswell as proximity, I attempted this by focusing in on the first brick alowing the rest of the bricks to becoming more obscured.
 
 ### _Heater_
 
 ![Heater](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181601.jpg "Heaters")
 
-This is an image of a wall heater i decided to use this picture as I feel the angel of the shot helps to display continuation, aswell as the contrast of the colours within the image blend well together.
+This is an image of a wall heater I decided to use this picture as I feel the angle of the shot helps to display continuation, aswell as the contrast of the colours within the image blend well together.
 
 ### _Radiator_
 
 ![Radiator](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181959.jpg "Radiator")
 
-This is my favourite image of the series this is due to the deception the camera has created by being angeled over the radiator, I feel this gives the picture alot of depth and repition which ties in proximity and continuation. aswell as this the shadows created by surrouding lighting which is hitting the white radiator gives off a three-dimensional effect.  
+This is my favourite image of the series this is due to the deception the camera has created by being angled over the radiator, I feel this gives the picture alot of depth and repition which ties in proximity and continuation. In addition, as the shadows created by surrouding lighting which is hitting the white radiator, it gives off a three-dimensional effect.
 
 ### _Stairs_
 
 ![Stairs](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_20161008_181743.jpg "Stairs")
 
-Here i have captured an image of a staircase, the picture displays a good example of continuation with the stairs exending with the image this also conveys proximity, with the final stairs appearing alot smaller and fainter than the closer ones which you can see the texture on the carpet.
+Here I have captured an image of a staircase, the picture displays a good example of continuation with the stairs extending with the image; this also conveys proximity, with the final stairs appearing alot smaller and fainter than the closer ones which you can see the texture on the carpet.
 
 ## Other Relevant Things (Content not by us)
 
@@ -110,6 +110,13 @@ WiFi is an everyday thing people use now, regardless of location. WiFi has even 
 ![Proximity Sensor](https://github.com/EmptyRave/EyeBombing/blob/master/proximity.jpg "Proximity")
 
 This is an excercise, I would like everyone to take their phone out and look at the top end of the phone for a sensor. This is known as a proximity sensor, this measures the light level of the area you are in and informs the screen for the brightness level. If the proximity sensor senses pure darkness, as if you had your phone in your pocket, the screen will NOT turn on, if you have that enabled in the settings.
+
+### Train Tracks
+
+![Tracks](https://github.com/EmptyRave/EyeBombing/blob/master/tracks.jpg "Tracks")
+
+Like I had mentioned before, I would show a train track to show continuation. The wooden planks that make up this type of track is spaced within a close proximity to each other. The track as a whole disappears in the horizon and also continues beyond the image.
+
 
 
 
