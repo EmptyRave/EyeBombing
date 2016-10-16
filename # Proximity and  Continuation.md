@@ -81,6 +81,12 @@ This is my favourite image of the series this is due to the deception the camera
 
 Here I have captured an image of a staircase, the picture displays a good example of continuation with the stairs extending with the image; this also conveys proximity, with the final stairs appearing alot smaller and fainter than the closer ones which you can see the texture on the carpet.
 
+### _Street_
+
+![Street](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_1068.jpg "Street")
+
+Here is an image of a street, which is a good example of a continuation not only with the road but the cars all lined up down the street offers up a continuation.
+
 ## Other Relevant Things (Content not by us)
 
 **In this section we will discuss things we have found online which is relevant to our topics.**
