@@ -1,4 +1,4 @@
-![Bowling](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_135429.jpg "Bowling")
+![Bowling](https://github.com/EmptyRave/EyeBombing/blob/master/Test_Img.jpg "Bowling")
 
 ![O2](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_135503.jpg "O2")
 
