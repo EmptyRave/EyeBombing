@@ -15,3 +15,8 @@
 ![Water Well](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_141024.jpg "Water Well")
 
 ![Train](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_160444.jpg "Train")
+
+![Plug](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_0002.jpg "Plug")
+
+![Skirting](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_0001.jpg "Skirting")
+
