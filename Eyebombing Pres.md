@@ -36,11 +36,11 @@ This was taken on the train. The eyes are the two arrows which can be represente
 
 ![Plug](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_0002.jpg "Plug")
 
-Type Here
+The photo of the plug looks like it could be a face which is supported or shocked with the eyes and mouth being wide open. All I did was rotate the photo to make it look like a face.
 
 ![Skirting](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_0001.jpg "Skirting")
 
-Type Here
+This is two bolts on a door it is not the clearest to see a face but the line at the bottom is slightly thicker and bolder than its surrounding area hence the mouth feature.
 
 ![PS4](https://github.com/EmptyRave/EyeBombing/blob/master/Jacob%20Images/IMG_20161023_182657.jpg "PS4")
 
