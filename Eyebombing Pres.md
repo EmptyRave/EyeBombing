@@ -18,7 +18,7 @@ The wall image may not look like a face at first however if we add goggles, woul
 
 The image has a little more definition than the rest. The grass can be representing hair, however volatile it may be. There is two tissues to be the eyes and there is also the crisp packet representing the mouth.
 
-![Floor](https://github.com/EmptyRave/EyeBombing/blob/20161003_140232_(Custom).jpg "Floor")
+![Floor](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_140232_(Custom).jpg "Floor")
 
 There is the two panels which are joined much like a robotic cartoon style. The repaving adds contrast which can be the mouth.
 
