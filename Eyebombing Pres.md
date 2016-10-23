@@ -44,33 +44,28 @@ This is two bolts on a door it is not the clearest to see a face but the line at
 
 ![PS4](https://github.com/EmptyRave/EyeBombing/blob/master/Jacob%20Images/IMG_20161023_182657.jpg "PS4")
 
-Type Here
+This is a playstation 4 controller which has a pretty distinctive face.
 
 ![Water Drops](https://github.com/EmptyRave/EyeBombing/blob/master/Jacob%20Images/IMG_20161023_184013.jpg "Water Drops")
-
-Type Here
+This is some water in a wok enjoying itself in its element.
 
 ![Dial](https://github.com/EmptyRave/EyeBombing/blob/master/Jacob%20Images/IMG_20161023_184108.jpg "Dial")
 
-Type Here
+This is a dial on a portable heater which looks like a pretty sad face.
 
 ![Wood](https://github.com/EmptyRave/EyeBombing/blob/master/Jacob%20Images/IMG_20161023_182859.jpg "Wood")
 
-Type Here
+This image was not set up and was found in its caputred condition, it shows a face that almost looks real as the eye has some detailing adds a nice touch to the image.
 
 ![Beemer](https://github.com/EmptyRave/EyeBombing/blob/master/Jacob%20Images/IMG_20161023_183013.jpg "Beemer")
 
-Type Here
-
-![Magic 8](https://github.com/EmptyRave/EyeBombing/blob/master/Jacob%20Images/IMG_20161023_183237.jpg "Magic 8")
-
-Type Here
+Set of keys which were found next to these two japanese bottle caps, it looks like a shocked face in my opinion.
 
 ![Fruit](https://github.com/EmptyRave/EyeBombing/blob/master/Jacob%20Images/IMG_20161023_183737.jpg "Fruit")
 
-Type Here
+These pieces of fruit convey a very happy face found in a fruit pot exactly how it it positioned.
 
 ![Tomato](https://github.com/EmptyRave/EyeBombing/blob/master/Jacob%20Images/IMG_20161023_183900.jpg "Tomato")
 
-Type Here
+Tomato and mozarella another silly face.
 
