@@ -36,5 +36,20 @@ This was taken on the train. The eyes are the two arrows which can be represente
 
 ![Plug](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_0002.jpg "Plug")
 
+Type Here
+
 ![Skirting](https://github.com/EmptyRave/EyeBombing/blob/master/IMG_0001.jpg "Skirting")
 
+Type Here
+
+![PS4](https://github.com/EmptyRave/EyeBombing/blob/master/Jacob%20Images/IMG_20161023_182657.jpg "PS4")
+
+Type Here
+
+![Water Drops](https://github.com/EmptyRave/EyeBombing/blob/master/Jacob%20Images/IMG_20161023_184013.jpg "Water Drops")
+
+Type Here
+
+![Dial](https://github.com/EmptyRave/EyeBombing/blob/master/Jacob%20Images/IMG_20161023_184108.jpg "Dial")
+
+Type Here
