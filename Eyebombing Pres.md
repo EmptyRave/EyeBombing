@@ -2,10 +2,6 @@
 
 This is an advertisement which the O2 had up promoting their bowling isles. The good thing about this image is the face is clearly seen. The image as a whole is clean, the shadow in the bowling holes add the definition of depth, it doing so it creates a contrasting colour to the pink defining the face more.
 
-![O2](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_135503_(Custom).jpg "O2")
-
-The image is a little hard to see the face however rest assured, there is a face. In addition to the face, you have a leg and the body too. With the help of Photoshop, I was able to bring out where I see the face more.
-
 ![Floor](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_135717_(Custom).jpg "Floor")
 
 I promise you I did not litter. The face is self explanitory, the image was taken outside of the University. The irregular colours and shapes represent the eyes. There are a few stones on the face which can be pimples. The tissue is the mouth. The image would be hard to replicate as the tissue will fly away.
@@ -16,7 +12,7 @@ The wall image may not look like a face at first however if we add goggles, woul
 
 ![Rubbish](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_140048_(Custom).jpg "Rubbish")
 
-The image has a little more definition than the rest. The grass can be representing hair, however volatile it may be. There is two tissues to be the eyes and there is also the crisp packet representing the mouth.
+The image has a little more definition than the rest. The grass can be representing hair, however volatile it may be. There is two tissues to be the eyes and there is also the crisp packet representing the mouth. I have adjusted the rotation of the image and made the face a little more constrained in the sizing.
 
 ![Floor](https://github.com/EmptyRave/EyeBombing/blob/master/20161003_140232_(Custom).jpg "Floor")
 
